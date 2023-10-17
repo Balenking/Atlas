@@ -1,4 +1,5 @@
 # Termux
+termux-setup-storage
 
 pkg upgrade
 
