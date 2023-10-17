@@ -12,4 +12,6 @@ git clone https://github.com/Balenking/Atlas.git
 
 cd Atlas
 
-python3 Atlas
+python3 Atlas_enc.py
+
+
