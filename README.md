@@ -1,4 +1,4 @@
-# Atlas
+# Termux
 
 pkg upgrade
 
